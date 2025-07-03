@@ -1,6 +1,6 @@
 # 🛒 Site de Cadastro - Mercado Livre (Simulação)
 
-Este projeto foi desenvolvido como parte de um trabalho da faculdade, com o objetivo de simular um sistema de cadastro inspirado no Mercado Livre. Utilizando **HTML**, **CSS** e **JavaScript**, o site permite registrar consumidores e vendedores, com funcionalidades completas de **validação**, **visualização**, **edição** e **exclusão de dados**.
+Este projeto foi desenvolvido como parte de um trabalho da faculdade, com o objetivo de simular um sistema de cadastro inspirado no Mercado Livre. Utilizando **HTML**, **CSS** e **JavaScript**, o site permite registrar consumidores, vendedores e produto, com funcionalidades completas de **validação**, **visualização**, **edição** e **exclusão de dados**.
 
 ## 🚀 Funcionalidades
 
